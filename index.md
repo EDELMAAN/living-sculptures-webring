@@ -1,7 +1,7 @@
 Living Sculptures Webring<br/><br/>
 ===
 
-- [Johann Edelmann - MI   //   Moss Intelligence](https://edelmaan.github.io/mossi/)
+- [Johann Edelmann - MI   //   Moss Intelligence](https://edelmaan.github.io/mossi)
 - [Stratos Bichakis - MAGMA](https://www.stratosbichakis.com/magma)
 - [Diego Behncke - A witness that hums: Diagram for the possibility of abductive synthesis]()
 - [Arbor – Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
